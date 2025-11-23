@@ -1,0 +1,76 @@
+{
+  "profesores": [
+    {
+      "nombre": "Dario",
+      "apellido": "Mora",
+      "materias": [
+        {
+          "nombre": "NodeJS desde Cero"
+        },
+        {
+          "nombre": "JavaScript desde Cero"
+        },
+        {
+          "nombre": "TypeScript desde Cero"
+        }
+      ],
+      "id": "7a18"
+    },
+    {
+      "id": "23b6",
+      "nombre": "Manuel",
+      "apellido": "Gutierrez",
+      "materias": [
+        {
+          "nombre": "Quimica desde Cero"
+        },
+        {
+          "nombre": "Biologia desde Cero"
+        },
+        {
+          "nombre": "Fisica desde Cero"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Maria",
+      "apellido": "Rodriguez",
+      "promedio": 8.2,
+      "id": "1cfa"
+    },
+    {
+      "nombre": "Paco",
+      "apellido": "Perez",
+      "promedio": 6.7,
+      "id": "95ad"
+    },
+    {
+      "id": "53b9",
+      "nombre": "George",
+      "apellido": "Lucas",
+      "promedio": 10
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJS desde Cero",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "4a33"
+    },
+    {
+      "nombre": "JavaScript desde Cero",
+      "duracion": 7,
+      "dificultad": "alta",
+      "id": "1240"
+    },
+    {
+      "nombre": "TypeScript desde Cero",
+      "duracion": 7,
+      "dificultad": "baja",
+      "id": "f165"
+    }
+  ]
+}
